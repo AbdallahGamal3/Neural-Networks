@@ -47,6 +47,7 @@ Neural-Networks-MLP/
 ├── submission/                            # Detailed theoretical analysis (Markdown)
 ├── requirements.txt                       # Dependencies
 └── README.md                              # Documentation
+```
 🛠️ Installation & Usage
 1. Clone the repository
 bash
