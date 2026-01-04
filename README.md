@@ -47,11 +47,10 @@ Neural-Networks-MLP/
 ├── submission/                         # Detailed theoretical analysis (Markdown)
 ├── requirements.txt                    # Dependencies
 └── README.md                           # Documentation
-🛠️ Installation & Usage
-Clone the repository:
-code
-Bash
-git clone https://github.com/YOUR_USERNAME/Neural-Networks-MLP-Optimization.git
+## 🛠️ Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbdallahGamal3/Neural-Networks.git
 Install dependencies:
 code
 Bash
