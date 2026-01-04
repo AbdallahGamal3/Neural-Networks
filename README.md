@@ -50,12 +50,12 @@ Neural-Networks-MLP/
 ```
 🛠️ Installation & Usage
 1. Clone the repository
-
 git clone https://github.com/YOUR_USERNAME/Neural-Networks-MLP-Optimization
 cd Neural-Networks-MLP-Optimization
-2. Install dependencies
 
+2. Install dependencies
 pip install -r requirements.txt
+
 3. Run the notebook
 Open Neural_Networks_MLP_Optimization.ipynb using VS Code or Jupyter Lab and run all cells.
 
