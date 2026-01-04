@@ -37,25 +37,29 @@ Compared convergence speed and stability across:
 Neural-Networks-MLP/
 │
 ├── Neural_Networks_MLP_Optimization.ipynb  # The Master Notebook
-├── models/                             # Saved .keras models for all experiments
-├── results/                            # Generated plots and visualizations
-│   ├── activation_tests/               # ReLU vs Tanh vs Sigmoid vs GELU
-│   ├── batch_tests/                    # Batch size impact (32-256)
-│   ├── loss_curves/                    # Dropout and Regularization plots
-│   ├── optimizer_tests/                # SGD vs Adam comparisons
-│   └── predictions/                    # Prediction samples and Custom Digit test
-├── submission/                         # Detailed theoretical analysis (Markdown)
-├── requirements.txt                    # Dependencies
-└── README.md                           # Documentation
-## 🛠️ Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AbdallahGamal3/Neural-Networks.git
-Install dependencies:
-code
-Bash
+├── models/                                # Saved .keras models for all experiments
+├── results/                               # Generated plots and visualizations
+│   ├── activation_tests/                  # ReLU vs Tanh vs Sigmoid vs GELU
+│   ├── batch_tests/                       # Batch size impact (32–256)
+│   ├── loss_curves/                       # Dropout and Regularization plots
+│   ├── optimizer_tests/                   # SGD vs Adam comparisons
+│   └── predictions/                       # Prediction samples and Custom Digit test
+├── submission/                            # Detailed theoretical analysis (Markdown)
+├── requirements.txt                       # Dependencies
+└── README.md                              # Documentation
+🛠️ Installation & Usage
+1. Clone the repository
+bash
+Copy code
+git clone https://github.com/YOUR_USERNAME/Neural-Networks-MLP-Optimization.git
+cd Neural-Networks-MLP-Optimization
+2. Install dependencies
+bash
+Copy code
 pip install -r requirements.txt
-Run the notebook using VS Code or Jupyter Lab.
-Author
+3. Run the notebook
+Open Neural_Networks_MLP_Optimization.ipynb using VS Code or Jupyter Lab and run all cells.
+
+👤 Author
 Abdallah Gamal
 Digital Egypt Pioneers Initiative (DEPI)
